@@ -1,0 +1,7 @@
+Plugin:
+  Prefix: '&e&lSimpleItemEdit &8>> '
+
+Messages:
+  NoItemInHand: "&c&lYou Don't Have An Item In You Hand!"
+  Help:
+    - "&aAn Help"
